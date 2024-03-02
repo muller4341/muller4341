@@ -2,7 +2,7 @@
 
 
 👋 Muluken Walle | Software Engineer<br/>
-🎓 Studied <Link to> Computer Engineering</Link> at AAiT <br/>
+🎓 Studied  [Computer Engineering](http://www.aait.edu.et/) at AAiT <br/>
 💻 Currently diving into Backend Web Development <br/>
 ✨ Always open to collaboration and learning <br/>
 📧 Reach me at: mulerwalle@gmail.com <br/>
